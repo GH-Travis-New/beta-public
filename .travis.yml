@@ -1,3 +1,5 @@
+vm :
+  size : medium
 jobs:
   include:
     - os: windows
